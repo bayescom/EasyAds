@@ -15,8 +15,8 @@ iOS/Android双端均可通过选择性的配置装载不同广告渠道SDK快速
 
 
 ### 2. 集成广泛，可拓展性强
-目前已集成主流的[穿山甲(字节)](https://www.csjplatform.com/union/media/union/download)，[优量汇(腾讯)](https://adnet.qq.com/resource/sdk)，
-[百青藤(百度)](https://union.baidu.com/bqt/#/)，[快手](https://u.kuaishou.com/)，开发者也可以通过自定义SDK渠道来实现其他广告SDK的对接管理。
+目前已集成主流的[穿山甲(字节)](https://www.csjplatform.com/union/media/union/download)、[优量汇(腾讯)](https://adnet.qq.com/resource/sdk)、
+[百青藤(百度)](https://union.baidu.com/bqt/#/)、[快手](https://u.kuaishou.com/)，开发者也可以通过自定义SDK渠道来实现其他广告SDK的对接管理。
 
 
 ### 3. 流量轻松分配，方便快捷管理
