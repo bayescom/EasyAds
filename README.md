@@ -1,6 +1,6 @@
 # EasyAds - 简单聚合 急速变现
 
-![image](./image/easyads_logo.png)
+![image](./image/easyads_logo.jpg)
 
 ## EasyAds简介
 
