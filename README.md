@@ -36,8 +36,11 @@ EasyAds通过可配置的方式，对SDK的流量分发实现方便快捷的管�
 
 ## 技术支持
 
+QQ群：
 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=E_IUfzy5PqOteuekOryWlfjZL6AQZuCE&jump_from=webapi"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="EasyAds开源社区群" title="EasyAds开源社区群"></a>
 
+QQ群二维码：
+![image](./image/easyads_qq.png)
 
 邮件技术支持：<easyads@bayescom.com>
 
