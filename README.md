@@ -28,10 +28,10 @@ EasyAds通过可配置的方式，对SDK的流量分发实现方便快捷的管�
 
 ## 快速接入
 
-| 系统     | 代码指引         |
-|-------- | ----------------------  |
-| iOS     | [https://img.shields.io/badge/Github-EasyAds_iOS_v1.0-red.svg](https://github.com/bayescom/EasyAds-iOS)   [Gitee]()|
-| Android | [Github](https://github.com/bayescom/EasyAds-Android)   [Gitee]()|
+| 系统     | 代码指引                                                                                                                             |
+|-------- |----------------------------------------------------------------------------------------------------------------------------------|
+| iOS     | ![iOS-github](https://img.shields.io/badge/Github-EasyAds_iOS_v1.0-red.svg)(https://github.com/bayescom/EasyAds-iOS)   [Gitee]() |
+| Android | [Github](https://github.com/bayescom/EasyAds-Android)   [Gitee]()                                                                |
 
 
 ## 技术支持
