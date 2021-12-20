@@ -36,4 +36,5 @@ EasyAds通过可配置的方式，对SDK的流量分发实现方便快捷的管�
 
 ## 技术支持
 
+邮件技术支持：<easyads@bayescom.com>
 
