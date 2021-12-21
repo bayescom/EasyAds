@@ -1,6 +1,6 @@
 # EasyAds
 
-![image](https://gitee.com/bayescom/EasyAds/raw/main/image/easyads_logo.png)
+![image](http://gitee.com/bayescom/EasyAds/raw/main/image/easyads_logo.png)
 
 ## 项目简介
 
