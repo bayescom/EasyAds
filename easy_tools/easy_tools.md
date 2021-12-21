@@ -27,7 +27,7 @@ Step 1. 根据需要添加广告SDK的执行顺序
 
 Step 2. 添加策略的流量权重值，并保存。
 
-![image](http://www.bayescom.com/uploads/20211221/2bf04355e4a1f7b013d870d234028066.jpg)
+![image](http://www.bayescom.com/uploads/20211221/5a4e83755fed820b59c222868e77a896.jpg)
 
 可通过修改，删除的方式维护广告SDK渠道的策略分发配置。
 
