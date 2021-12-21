@@ -1,6 +1,6 @@
 # EasyAds
 
-![image](http://www.bayescom.com/uploads/20211220/64abaf3c5b0a3a8f243d1d2d2aa1974f.png)
+![image](https://e.gitee.com/bayescom/repos/bayescom/EasyAds/blob/main/image/easyads_logo.png)
 
 ## 项目简介
 
@@ -41,7 +41,7 @@ QQ群：
 
 QQ群二维码：
 
-![image](http://www.bayescom.com/uploads/20211220/43af3f34fc5a7bb50d84f94e374b3e98.png)
+![image](https://e.gitee.com/bayescom/repos/bayescom/EasyAds/blob/main/image/easyads_qq.png)
 
 邮件技术支持：<easyads@bayescom.com>
 
