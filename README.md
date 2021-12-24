@@ -34,6 +34,10 @@ EasyAds通过可配置的方式，对SDK的流量分发实现方便快捷的管�
 | Android | [![Android-github](https://img.shields.io/badge/Github-EasyAds_Android_v1.0-green.svg)](https://github.com/bayescom/EasyAds-Android)   [![Android-gitee](https://img.shields.io/badge/Gitee-EasyAds_Android_v1.0-blue.svg)](https://gitee.com/bayescom/EasyAds-Android) |
 
 
+## 合规指南
+[合规指南参考](https://github.com/bayescom/EasyAds/wiki/%E5%90%88%E8%A7%84%E6%8C%87%E5%8D%97)
+
+
 ## 技术支持
 
 QQ群：
